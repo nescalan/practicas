@@ -66,7 +66,7 @@ class BadgeForm extends Component {
               className="form-control"
               type="text"
               name="jobTitle"
-              // value={this.state.value}
+              // value={this.state.jobTitle}
               value={this.props.formValues.jobTitle}
             />
           </div>
